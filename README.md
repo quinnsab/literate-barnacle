@@ -1,8 +1,6 @@
 # literate-barnacle
 A practical workspace focused on learning and applying fundamentals of the Go programming language through guided exercises.
-# Literate Barnacle
 
-# Literate Barnacle
 
 This repository documents the progress and code samples generated while working through fundamental Go programming language concepts.
 
